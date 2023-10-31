@@ -9,7 +9,7 @@ This is a sample code for the dynamics simulation of the Ising model. The time e
 
 ## Compilation
 
-    cmake [path-to-rpa-source-directory]
+    cmake [path-to-source-directory]
     make
     
 ## Developer
